@@ -18,4 +18,5 @@ When it comes to building robots these benefits are quite important. This test s
 
 -Eagle Power 90KV BLDC Motor
 
-![Screenshot 2024-05-28 211855](https://github.com/aaedmusa/Capstan-Drive/assets/84678990/f85027ee-b9be-400f-a4e3-debea7f1829b)
+![Screenshot 2024-05-28 211855](https://github.com/aaedmusa/Capstan-Drive/assets/84678990/6cf67396-19e8-47b5-a2e2-130fcb8c4137)
+
