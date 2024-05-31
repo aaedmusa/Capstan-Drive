@@ -18,5 +18,6 @@ When it comes to building robots a capstan drive can be quite beneficial. This t
 
 -Eagle Power 90KV BLDC Motor
 
-![Screenshot 2024-05-28 211855](https://github.com/aaedmusa/Capstan-Drive/assets/84678990/6cf67396-19e8-47b5-a2e2-130fcb8c4137)
 
+
+![Test Stand](https://github.com/aaedmusa/Capstan-Drive/assets/84678990/27c12eb0-7766-4df0-b6e1-42ac28d121f3)
