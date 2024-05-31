@@ -12,7 +12,7 @@ When it comes to building robots these benefits are quite important. This test s
 
 -Helical pattern on both drums for guided unraveling
 
--Lead screw tensioning method to tighten the rope
+-Lead screw to tension the rope
 
 -ODrive S1 FOC Controller
 
