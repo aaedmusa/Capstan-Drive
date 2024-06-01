@@ -1,6 +1,6 @@
 # Capstan-Drive
-A capstan drive is a cheap rope-driven speed reducer that has low backlash, low inertia, low noise, and high torque transparency. 
-When it comes to building robots a capstan drive can be quite beneficial. This test stand has the following features:
+A Capstan Drive is a cheap rope-driven speed reducer that has low backlash, low inertia, low noise, and high torque transparency. 
+When it comes to building robots a Capstan Drive can be quite beneficial. This test stand has the following features:
 
 -3D printed in PLA
 
